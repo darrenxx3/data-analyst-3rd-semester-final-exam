@@ -1,0 +1,6 @@
+datasource:
+https://www.kaggle.com/datasets/kandij/mall-customers
+
+columnya dibagi menjadi 5 yakni ada customerID, Gender,Age, Annual Income, dan spending Score
+info dari dataset ini adalah:
+untuk melihat spending score dari customer dalam sebuah mall. 
